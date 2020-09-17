@@ -1,4 +1,4 @@
-The program takes the user’s input for the NFA transition table and outputs the corresponding DFA tables and the DFA diagram.
+The program takes the user’s input for a Non-deterministic Finite Automaton (NFA) transition table and outputs the corresponding Deterministic Finite Automaton (DFA) tables and the DFA diagram.
 
 1.	The user is prompted to enter all the data for the NFA table. The program records all the data to a default dictionary. defaultdict is a nested key-value structure in Python that has the following form: {key 1: {key 2: {value}}}
 2.	Then the NFA table is output based on the dictionary above. 
